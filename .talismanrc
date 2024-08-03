@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: _site/assets/main.css.map
+  checksum: e2c9c2cfd0d8819a710af5dac37f5f2e4cc3128f180e4b23147f8d9c2994a050
+version: ""
